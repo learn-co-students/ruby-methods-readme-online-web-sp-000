@@ -11,7 +11,7 @@ file, `example.rb`, that you can use to copy the code examples into. You can run
 this file from the lesson's main directory by typing `ruby lib/example.rb` to
 see what it produces.
 
-## Objectives
+##  Objectives
 
 - Describe how methods can define new routines and procedures for our code.
 - Define a method with the `def` keyword, supply the method's body, and close
