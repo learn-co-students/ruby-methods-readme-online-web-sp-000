@@ -1,13 +1,7 @@
-# Use this space to code along with the readme
-
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+$ ruby greeting.rb
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+$
