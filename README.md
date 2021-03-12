@@ -1,4 +1,4 @@
-# Methods in Ruby
+`# Methods in Ruby
 
 ## Overview
 
